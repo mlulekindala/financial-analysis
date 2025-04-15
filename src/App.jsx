@@ -14,7 +14,7 @@ const financialRatios = [
   { name: "Debt-to-Equity", year1: 0.5, year2: 0.6 },
   { name: "Gross Margin", year1: "45%", year2: "47%" },
   { name: "Net Profit Margin", year1: "12%", year2: "13%" },
-  { name: "Return on Assets (ROI)", year1: "8%", year2: "9%" },
+  { name: "Return on Investment (ROI)", year1: "8%", year2: "9%" },
   { name: "Return on Equity (ROE)", year1: "15%", year2: "17%" },
 ];
 
